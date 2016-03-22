@@ -1,0 +1,28 @@
+name: Reverend Mother
+favicon: null
+layout_spectrum: 0.9958506033290178
+typography_spectrum: 0.275518499314785
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7678829301148653
+  lightness: 0.736590025248006
+  saturation: 0.8843165868893266
+  rhythmicContrast: 0.2733823468443006
+purpose: []
